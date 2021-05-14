@@ -24,7 +24,7 @@ Write a function solution(plaintext) that takes a string parameter and returns a
 
 
 ### Level 2
-#### Challenge 1: 
+#### Challenge 1: Lovely Lucky Lambs
 Being a henchman isn’t all drudgery. Occasionally, when Commander Lambda is feeling generous, she’ll hand out Lucky LAMBs (Lambda’s All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
 
 However, actually passing out LAMBs isn’t easy. Each henchman squad has a strict seniority ranking which must be respected – or else the henchmen will revolt and you’ll all get demoted back to minions again!
@@ -37,4 +37,4 @@ Write a function called solution(total_lambs), where total_lambs is the integer 
 
 To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB payouts: you can expect total_lambs to always be between 10 and 1 billion (10 ^ 9).
 
-**Solution:**[lovely_lucky_lambs.py](https://github.com/sriyabro/google-foobar-challenge/blob/main/L2-1-lovely_lucky_lambs.py)
+**Solution:** [lovely_lucky_lambs.py](https://github.com/sriyabro/google-foobar-challenge/blob/main/L2-1-lovely_lucky_lambs.py)
