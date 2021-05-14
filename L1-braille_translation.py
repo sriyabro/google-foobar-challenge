@@ -11,7 +11,8 @@ def solution(s):
             output += bin(cmap[char])[2:].zfill(6)
             
 
-    print(output)
+    #print(output)
+    return output
 
 
 
